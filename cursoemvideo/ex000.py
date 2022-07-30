@@ -1,0 +1,2 @@
+print('FÜR DEUTSCHLAND')
+
